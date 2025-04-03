@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/57ff9c3adda94f5791d6ac5763fabaff/artifacts
+deleted_time: 1743668455332
+end_time: 1743664638842
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: 57ff9c3adda94f5791d6ac5763fabaff
+run_name: painted-frog-858
+run_uuid: 57ff9c3adda94f5791d6ac5763fabaff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638773
+status: 3
+tags: []
+user_id: Gagan Poojari

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/2c03b5696b794babaa92481d68c1bc1e/artifacts
+end_time: 1743668297036
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: active
+run_id: 2c03b5696b794babaa92481d68c1bc1e
+run_name: bald-colt-400
+run_uuid: 2c03b5696b794babaa92481d68c1bc1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743668296963
+status: 3
+tags: []
+user_id: Gagan Poojari

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/f9c4d162e0d3491fbb7c023681365e06/artifacts
+deleted_time: 1743668455306
+end_time: 1743664639148
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: f9c4d162e0d3491fbb7c023681365e06
+run_name: intrigued-whale-180
+run_uuid: f9c4d162e0d3491fbb7c023681365e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664639078
+status: 3
+tags: []
+user_id: Gagan Poojari

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/df9c2d2698a1497c9526da75e3b55eef/artifacts
+deleted_time: 1743668455345
+end_time: 1743664638690
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: df9c2d2698a1497c9526da75e3b55eef
+run_name: loud-asp-233
+run_uuid: df9c2d2698a1497c9526da75e3b55eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638621
+status: 3
+tags: []
+user_id: Gagan Poojari

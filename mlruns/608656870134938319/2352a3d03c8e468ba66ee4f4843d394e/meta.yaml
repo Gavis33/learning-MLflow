@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/2352a3d03c8e468ba66ee4f4843d394e/artifacts
+end_time: 1743664438214
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: active
+run_id: 2352a3d03c8e468ba66ee4f4843d394e
+run_name: placid-skunk-469
+run_uuid: 2352a3d03c8e468ba66ee4f4843d394e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664430682
+status: 4
+tags: []
+user_id: Gagan Poojari

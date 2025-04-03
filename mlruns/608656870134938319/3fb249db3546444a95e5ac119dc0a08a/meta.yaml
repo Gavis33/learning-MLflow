@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/3fb249db3546444a95e5ac119dc0a08a/artifacts
+deleted_time: 1743668455305
+end_time: 1743664639073
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: 3fb249db3546444a95e5ac119dc0a08a
+run_name: overjoyed-trout-980
+run_uuid: 3fb249db3546444a95e5ac119dc0a08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664639001
+status: 3
+tags: []
+user_id: Gagan Poojari

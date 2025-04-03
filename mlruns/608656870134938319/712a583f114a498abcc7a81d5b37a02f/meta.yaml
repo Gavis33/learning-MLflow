@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/712a583f114a498abcc7a81d5b37a02f/artifacts
+deleted_time: 1743668455331
+end_time: 1743664638919
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: 712a583f114a498abcc7a81d5b37a02f
+run_name: defiant-flea-807
+run_uuid: 712a583f114a498abcc7a81d5b37a02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638849
+status: 3
+tags: []
+user_id: Gagan Poojari

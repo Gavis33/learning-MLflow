@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/59194679f2c74d67a605450f48fe2d56/artifacts
+deleted_time: 1743668455350
+end_time: 1743664638479
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: 59194679f2c74d67a605450f48fe2d56
+run_name: wise-asp-809
+run_uuid: 59194679f2c74d67a605450f48fe2d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638414
+status: 3
+tags: []
+user_id: Gagan Poojari

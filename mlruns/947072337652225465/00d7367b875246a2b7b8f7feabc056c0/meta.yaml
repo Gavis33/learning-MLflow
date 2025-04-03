@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/947072337652225465/00d7367b875246a2b7b8f7feabc056c0/artifacts
+end_time: 1743654593389
+entry_point_name: ''
+experiment_id: '947072337652225465'
+lifecycle_stage: active
+run_id: 00d7367b875246a2b7b8f7feabc056c0
+run_name: melodic-bass-920
+run_uuid: 00d7367b875246a2b7b8f7feabc056c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743654576639
+status: 3
+tags: []
+user_id: Gagan Poojari

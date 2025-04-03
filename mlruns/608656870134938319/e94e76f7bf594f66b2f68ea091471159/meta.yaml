@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/e94e76f7bf594f66b2f68ea091471159/artifacts
+deleted_time: 1743668455334
+end_time: 1743664638615
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: e94e76f7bf594f66b2f68ea091471159
+run_name: likeable-ant-994
+run_uuid: e94e76f7bf594f66b2f68ea091471159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638551
+status: 3
+tags: []
+user_id: Gagan Poojari

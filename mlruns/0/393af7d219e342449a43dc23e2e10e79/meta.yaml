@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/393af7d219e342449a43dc23e2e10e79/artifacts
+end_time: 1743599136103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 393af7d219e342449a43dc23e2e10e79
+run_name: melodic-slug-982
+run_uuid: 393af7d219e342449a43dc23e2e10e79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743599135991
+status: 3
+tags: []
+user_id: Gagan Poojari

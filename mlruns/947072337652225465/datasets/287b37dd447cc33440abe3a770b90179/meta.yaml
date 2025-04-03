@@ -1,0 +1,8 @@
+digest: 9b22db7d
+name: dataset
+profile: '{"features_shape": [18, 13], "features_size": 234, "features_nbytes": 1872}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Gagan Poojari", "mlflow.source.name": "c:\\MLOps\\learning-MLflow\\src\\first.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "e3522da6492fa7afa80b6c4f8ce810d1e8758b38"}}'
+source_type: code

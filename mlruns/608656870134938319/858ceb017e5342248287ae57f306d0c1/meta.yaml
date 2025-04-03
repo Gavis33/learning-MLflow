@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/858ceb017e5342248287ae57f306d0c1/artifacts
+end_time: 1743668296958
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: active
+run_id: 858ceb017e5342248287ae57f306d0c1
+run_name: bemused-slug-482
+run_uuid: 858ceb017e5342248287ae57f306d0c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743668296892
+status: 3
+tags: []
+user_id: Gagan Poojari

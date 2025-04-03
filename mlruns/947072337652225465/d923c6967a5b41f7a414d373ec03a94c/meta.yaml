@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/947072337652225465/d923c6967a5b41f7a414d373ec03a94c/artifacts
+end_time: 1743650079087
+entry_point_name: ''
+experiment_id: '947072337652225465'
+lifecycle_stage: active
+run_id: d923c6967a5b41f7a414d373ec03a94c
+run_name: luminous-ray-803
+run_uuid: d923c6967a5b41f7a414d373ec03a94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743650077825
+status: 3
+tags: []
+user_id: Gagan Poojari

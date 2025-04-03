@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/4a70f1bc71984ad49c1655c6008d6002/artifacts
+deleted_time: 1743668455330
+end_time: 1743664638767
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: 4a70f1bc71984ad49c1655c6008d6002
+run_name: traveling-rat-524
+run_uuid: 4a70f1bc71984ad49c1655c6008d6002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638697
+status: 3
+tags: []
+user_id: Gagan Poojari

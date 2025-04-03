@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/86929c0e0d7a45c3a7f7d69821ff36e6/artifacts
+deleted_time: 1743648672984
+end_time: 1743648533027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 86929c0e0d7a45c3a7f7d69821ff36e6
+run_name: flawless-bird-351
+run_uuid: 86929c0e0d7a45c3a7f7d69821ff36e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743648532601
+status: 4
+tags: []
+user_id: Gagan Poojari

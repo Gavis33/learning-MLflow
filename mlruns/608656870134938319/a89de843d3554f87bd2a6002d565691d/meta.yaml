@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/a89de843d3554f87bd2a6002d565691d/artifacts
+deleted_time: 1743668455347
+end_time: 1743664638545
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: a89de843d3554f87bd2a6002d565691d
+run_name: resilient-wasp-73
+run_uuid: a89de843d3554f87bd2a6002d565691d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664638484
+status: 3
+tags: []
+user_id: Gagan Poojari

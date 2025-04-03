@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/ef17668f51ac4a5cb7c2d5e8801c3a40/artifacts
+end_time: 1743668297585
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: active
+run_id: ef17668f51ac4a5cb7c2d5e8801c3a40
+run_name: omniscient-jay-611
+run_uuid: ef17668f51ac4a5cb7c2d5e8801c3a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743668297498
+status: 3
+tags: []
+user_id: Gagan Poojari

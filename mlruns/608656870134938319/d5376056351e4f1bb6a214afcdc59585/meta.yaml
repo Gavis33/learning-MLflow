@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/d5376056351e4f1bb6a214afcdc59585/artifacts
+deleted_time: 1743668455302
+end_time: 1743664648579
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: deleted
+run_id: d5376056351e4f1bb6a214afcdc59585
+run_name: able-lynx-424
+run_uuid: d5376056351e4f1bb6a214afcdc59585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664631362
+status: 3
+tags: []
+user_id: Gagan Poojari

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e61ac7ee9e8849d0a04a2285029e7bee/artifacts
+deleted_time: 1743648672984
+end_time: 1743648440473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e61ac7ee9e8849d0a04a2285029e7bee
+run_name: judicious-ape-802
+run_uuid: e61ac7ee9e8849d0a04a2285029e7bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743648439027
+status: 4
+tags: []
+user_id: Gagan Poojari

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/eaf5763b0c1a435e8e656dadd44449cc/artifacts
+end_time: 1743664438211
+entry_point_name: ''
+experiment_id: '608656870134938319'
+lifecycle_stage: active
+run_id: eaf5763b0c1a435e8e656dadd44449cc
+run_name: unequaled-boar-69
+run_uuid: eaf5763b0c1a435e8e656dadd44449cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743664438130
+status: 4
+tags: []
+user_id: Gagan Poojari

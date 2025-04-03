@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743669096264
+current_stage: None
+description: ''
+last_updated_timestamp: 1743669096264
+name: gavis_first_model
+run_id: 5492606682a1413688dcfc1fc536e075
+run_link: ''
+source: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/5492606682a1413688dcfc1fc536e075/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/MLOps/learning-MLflow/mlruns/608656870134938319/5492606682a1413688dcfc1fc536e075/artifacts/random_forest
+user_id: null
+version: 1
