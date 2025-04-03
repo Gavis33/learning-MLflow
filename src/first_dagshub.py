@@ -13,7 +13,7 @@ dagshub.init(repo_owner='Gavis33', repo_name='learning-MLflow', mlflow=True)
 mlflow.set_tracking_uri('https://dagshub.com/Gavis33/learning-MLflow.mlflow')
 
 # Load the wine dataset
-wine = load_wine()
+wine = load_wine() 
 X = wine.data
 y = wine.target
 

@@ -10,7 +10,7 @@ import seaborn as sns # To add color and style to the confusion matrix plot
 mlflow.set_tracking_uri('http://localhost:5000')
 
 # Load the wine dataset
-wine = load_wine()
+wine = load_wine() 
 X = wine.data
 y = wine.target
 
